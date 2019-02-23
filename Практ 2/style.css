@@ -1,0 +1,28 @@
+.nicebutton{
+    background: #797979;
+    color:rgb(0, 36, 136);
+    text-decoration:none;
+    display:block;
+    width:90px;
+    text-align:center;
+    margin:20px auto;
+    padding:10px 10px;
+    transition:all 0.3s;
+    }
+   a.nicebutton:hover{
+    box-shadow:0px -5px 0 rgb(0, 63, 136) inset;
+  }
+main {
+    background-image: url(Untitled-1.jpg);
+    background-size: cover;
+    padding: 130px;
+    margin: 150px;
+}
+.leader {
+    text-align:center;
+    font-family: sans-serif;
+}
+.solider {
+    text-align: center;
+    font-family: sans-serif;
+}
