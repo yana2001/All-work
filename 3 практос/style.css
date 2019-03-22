@@ -1,0 +1,78 @@
+.men {
+  width: 372px;
+  height: 462px;
+  background: url(man.jpg);
+  text-align: center;
+  float: left;
+  margin-left: 120px;
+  margin-top: 50px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+}
+h1 {
+  border: 2px solid white;
+  padding-top: 200px;
+  margin: 14px;
+  color: #458b74;
+  padding-bottom: 200px;
+}
+.woman {
+  width: 372px;
+  height: 462px;
+  background: url(woman.jpg);
+  text-align: center;
+  margin: 50px 120px 0px 0px;
+  float: right;
+}
+.watches {
+  width: 372px;
+  height: 462px;
+  background: url(watches.jpg);
+  text-align: center;
+  float: left;
+  margin-right: 0px;
+  margin-left: 120px;
+  margin-top: 50px;
+}
+.latest-p {
+  float: none;
+  text-align: center;
+}
+.ff {
+  padding: 0px;
+  margin: 0px;
+  margin-top: 20px;
+  font-size: 30px;
+  font-family: "Raleway", sans-serif;
+  color: black;
+}
+.sale {
+  width: 490px;
+  height: 390px;
+  background: url(woman1.jpg);
+  float: left;
+  text-align: center;
+  margin-top: 20px;
+  margin-left: 250px;
+}
+.autumn {
+  padding-bottom: 100px;
+  padding-top: 180px;
+  font-size: 25px;
+  color: black;
+}
+.mega {
+  background: url(woman2.jpg);
+  width: 490px;
+  height: 390px;
+  float: right;
+  text-align: center;
+  margin-top: 20px;
+  margin-right: 250px;
+}
+.items {
+  padding-bottom: 100px;
+  padding-top: 180px;
+  font-size: 25px;
+  color: black;
+}
