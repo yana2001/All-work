@@ -76,3 +76,10 @@ h1 {
   font-size: 25px;
   color: black;
 }
+hr{
+  width: 100px;
+  height:2px;
+  border:none;
+  color:red;
+  background-color:red;
+}
